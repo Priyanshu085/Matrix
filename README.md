@@ -2,6 +2,16 @@
 
 Experience a new era in metro travel with Matrix. Seamlessly enter using your smartphone, enjoy precise fare calculation, and receive real-time updates. This project is a testament to my participation and innovation at Hack-BVP@5.0. Elevate your urban commute with Matrix.
 
+![Homepage](/src/images//screenshot/home.png)
+
+### Table of Content 
+- [FEATURES](#features)
+- [INSTALLATION](#installation)
+- [USAGE](#usage)
+- [FOR CONTRIBUTION](#contributing)
+- [LICENSE](#license)
+- [ACKNOWLEDGEMENT](#acknowledgements)
+
 ## Features
 
 - **Ticketless Access**: Use your smartphone for hassle-free entry.
@@ -29,6 +39,6 @@ We welcome contributions! Feel free to open an issue or create a pull request.
 
 This project is licensed under the [GPL License](LICENSE).
 
-## Acknowledgements
+## Acknowledgement
 
-Special thanks to the contributors and open-source community.
+Special thanks to the contributors.
