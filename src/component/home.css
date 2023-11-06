@@ -83,6 +83,7 @@
   
   .about_card img{
     height: 55%;
+      width:30%;
   }
 
   .feature_card ul li, .feature_card h3{
