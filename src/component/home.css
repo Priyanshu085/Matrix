@@ -82,7 +82,7 @@
   }
   
   .about_card img{
-    height: 55%;
+    height: 75%;
       width:30%;
   }
 
@@ -127,5 +127,5 @@ nav{
 .about_sec{
     padding-top:40px;
     margin-top:3px;
-    font-size:30px;
+    font-size:20px;
 }
