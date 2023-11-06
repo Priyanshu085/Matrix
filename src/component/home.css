@@ -59,12 +59,20 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
-  .feature_container, .about_container{
+  .feature_container{
     display: flex;
     text-align: center;
     overflow: hidden;
     margin: 0;
     padding: 0;
+  }
+.about_container{
+    display: flex;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height:100%;
   }
 
   .feature_card, .about_card{ 
