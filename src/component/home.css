@@ -82,8 +82,7 @@
   }
   
   .about_card img{
-    height: 75%;  
-      overflow:hidden;
+    height: 55%;
   }
 
   .feature_card ul li, .feature_card h3{
