@@ -16,7 +16,7 @@ const About = () => {
 We understand the frustrations of waiting in long queues and dealing with the inconvenience of traditional ticketing systems. With Marix, all you need is your smartphone or any contactless payment device. Simply register on our website, and you'll gain access to a world of effortless metro travel.
     </div>
      </div>
-    </div>
+      </div>
     </>
   );
 };
